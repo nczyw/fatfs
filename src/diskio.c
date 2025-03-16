@@ -133,7 +133,3 @@ DRESULT disk_ioctl (
 
 	return RES_PARERR;
 }
-DWORD get_fattime (void)
-{
-	return 0;
-}
